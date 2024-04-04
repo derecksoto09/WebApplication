@@ -1,0 +1,83 @@
+header {
+    margin: auto;
+    width: 100%;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 28px;
+}
+
+h1 {
+   margin: auto;
+    width: 100%;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 28px;
+}
+
+
+/* Location, Phone, Email Section */
+.contact-list {
+    list-style-type: none;
+    margin-left: -30px;
+    padding-right: 20px;
+  }
+  
+   
+  
+  .list-item {
+    line-height: 4;
+    color: #aaa;
+  }
+  
+   
+  
+  .contact-text {
+    font: 300 18px 'Lato', sans-serif;
+    letter-spacing: 1.9px;
+    color: #000000;
+  }
+  
+   
+  
+  .place {
+    margin-left: 62px;
+  }
+  
+   
+  
+  .phone {
+    margin-left: 56px;
+  }
+  
+   
+  
+  .gmail {
+    margin-left: 53px;
+  }
+  
+   
+  
+  .contact-text a {
+    color: #000000;
+    text-decoration: none;
+    transition-duration: 0.2s;
+  }
+  
+   
+  
+  .contact-text a:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+
+  .copyright {
+    font: 200 14px 'Oswald', sans-serif;
+    color: #fff;
+    letter-spacing: 1px;
+    text-align: center;
+    background-color: #000000;
+    margin-top: -8px;
+  }
+  
+ 
